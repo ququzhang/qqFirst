@@ -1,0 +1,23 @@
+
+.userinfo{
+  width: 90%;
+}
+
+.title{
+  height: 200rpx;
+  line-height: 200rpx;
+  width: 70%;
+}
+
+.name3232{
+  width: 80%;
+  color: blue;
+}
+.image{
+  width: 400rpx;
+  height: 700rpx;
+}
+.image_1{
+  width: 200rpx;
+  height: 350rpx;
+}

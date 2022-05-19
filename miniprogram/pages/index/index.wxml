@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view class="title" bindtap="testFun">hello world</view>
+  <view class="name3232"> my Name is qq</view>
+  <image mode="aspectFit" class="image" src="../../images/pic1.jpg"></image>
+  <image mode="aspectFill" class="image_1" src="../../images/pic2.jpg"></image>
+
+
+</view>
+  
